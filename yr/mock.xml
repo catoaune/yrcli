@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Gvarv</name>
+    <type>Tettsted</type>
+    <country>Norge</country>
+    <timezone id="Europe/Oslo" utcoffsetMinutes="120" />
+    <location altitude="17" latitude="59.3876666216368" longitude="9.17239325131741" geobase="ssr" geobaseid="43354" />
+  </location>
+</weatherdata>
